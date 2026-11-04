@@ -1,0 +1,11 @@
+T students 3
+C id INTEGER
+C name TEXT
+C age INTEGER
+N 2
+1
+Ani
+18
+3
+Lilit
+21
